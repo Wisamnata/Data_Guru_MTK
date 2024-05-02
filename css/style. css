@@ -1,0 +1,17 @@
+ .container {
+  width: 800px;
+  margin: auto;
+}
+
+.head {
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: auto;
+  padding: 7px;
+}
